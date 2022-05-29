@@ -1,1 +1,1 @@
-mon site web pour le cours git
+Site web e-commerce
